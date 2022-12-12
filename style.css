@@ -1,0 +1,11 @@
+
+html {height: 100%;}body { background-image: linear-gradient(#FFFFFF, rgb(12, 120, 34));}
+a.color{
+    font-style: italic;font-size: 80px;text-align: center;
+        font-weight: bold;
+        text-shadow: 
+        5px 5px 2px yellow;
+        mask-image: url();
+ 
+
+}
